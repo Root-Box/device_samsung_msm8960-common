@@ -15,38 +15,37 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="mdnie_scenario_entries">
-        <item>Caméra (Par défaut)</item>
-        <item>Vidéo</item>
-        <item>Vidéo chaude</item>
-        <item>Video froide</item>
-        <item>UI</item>
-        <item>Navigation</item>
-        <item>Galerie</item>
+        <item>界面</item>
+        <item>影片</item>
+        <item>照相</item>
+        <item>导航</item>
+        <item>图库</item>
         <item>VT</item>
+        <item>忽略</item>
     </string-array>
     <string-array name="mdnie_mode_entries">
-        <item>Standard (Par défaut)</item>
-        <item>Dynamique</item>
-        <item>Naturel</item>
-        <item>Vidéo</item>
+        <item>标准 (默认)</item>
+        <item>动态</item>
+        <item>自然</item>
+        <item>电影</item>
     </string-array>
     <string-array name="panel_gamma_entries">
-        <item>2.2 (Par défaut)</item>
+        <item>2.2 (默认)</item>
         <item>1.9</item>
     </string-array>
     <string-array name="touchscreen_sensitivity_entries">
         <item>10</item>
         <item>20</item>
         <item>30</item>
-        <item>50 (Par défaut)</item>
+        <item>50 (默认)</item>
         <item>70</item>
         <item>100</item>
     </string-array>
     <string-array name="panel_color_temp_entries" >
-        <item>Froide</item>
-        <item>Fraiche</item>
-        <item>Normale</item>
-        <item>Tiède</item>
-        <item>Chaude</item>
+        <item>冷色</item>
+        <item>凉色</item>
+        <item>正常</item>
+        <item>温色</item>
+        <item>热色</item>
     </string-array>
 </resources>
